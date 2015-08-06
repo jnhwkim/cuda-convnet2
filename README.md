@@ -22,3 +22,18 @@ Others (epoch=100)
 -----------
 sgd-batch 0.175400
 </pre>
+
+<pre>
+Neural Prior Ensenble (epoch=10K)
+---------------------------------
+b1 0.221400
+b2 0.213300
+b3 0.206400
+b4 0.204700
+b5 0.197500
+ensemble 0.162800
+
+Others (epoch=10K)
+-----------
+sgd-batch 0.??????
+</pre>
