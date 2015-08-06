@@ -9,7 +9,7 @@ You can read the documentation in two ways:
 ## Now we're experimenting!
 
 <pre>
-Neural Prior Ensenble (epoch=100)
+Neural Prior Ensemble (epoch=100)
 ---------------------------------
 b1 0.288100
 b2 0.218500
@@ -24,7 +24,7 @@ sgd-batch 0.175400
 </pre>
 
 <pre>
-Neural Prior Ensenble (epoch=10K)
+Neural Prior Ensemble (epoch=10K)
 ---------------------------------
 b1 0.221400
 b2 0.213300
